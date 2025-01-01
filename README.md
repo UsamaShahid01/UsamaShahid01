@@ -27,4 +27,4 @@ I'm a passionate developer with interest in web development. I love to explore n
 
 ## Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/usama-shahid-randhawa/)
+[![LinkedIn]https://www.linkedin.com/in/usama-shahid-randhawa/
