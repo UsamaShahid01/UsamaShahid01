@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate developer with interest in [your interests here, e.g., web development, machine learning, etc.]. I love to explore new technologies and leverage them to solve real-life problems.
+I'm a passionate developer with interest in web development. I love to explore new technologies and leverage them to solve real-life problems.
 
 - 🌱 I’m currently learning [technology or skill you're learning].
 - 👯 I’m looking to collaborate on [projects or open source contributions you're interested in].
