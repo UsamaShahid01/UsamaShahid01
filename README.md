@@ -16,7 +16,6 @@ I'm a passionate developer with interest in web development. I love to explore n
 ## Languages and Tools
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ## GitHub Stats
 
@@ -28,5 +27,4 @@ I'm a passionate developer with interest in web development. I love to explore n
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5&labelColor=000)](https://linkedin.com/in/UsamaShahid01)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2&labelColor=000)](https://twitter.com/UsamaShahid01)
+[![LinkedIn](https://www.linkedin.com/in/usama-shahid-randhawa/)
