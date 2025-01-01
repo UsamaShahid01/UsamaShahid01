@@ -1,21 +1,20 @@
-# Hi there, I'm Usama Shahid! 👋
+<h1>Hi there, I am Usama Shahid 👋</h1>
+<h2>🧑‍💻 About Me</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=UsamaShahid01&color=green)
+I am a passionate software developer with a strong focus on web development, open-source contributions, and continuous learning of emerging technologies. I thrive on tackling challenging projects and collaborating to create innovative, impactful solutions.
 
-## About Me
++ 🌍 I'm currently based in pakistan
++ 📫 How to reach me: usamashahidrandhawa1@gmail.com
 
-I'm a passionate developer with interest in web development. I love to explore new technologies and leverage them to solve real-life problems.
+<h2>🔧 Technologies & Tools</h2>
+Here are some of the languages, frameworks, and tools I work with:
 
-- 🌱 I’m currently learning [technology or skill you're learning].
-- 👯 I’m looking to collaborate on [projects or open source contributions you're interested in].
-- 🤔 I’m looking for help with [any topics you're seeking advice on].
-- 💬 Ask me about [topics you can help with, e.g., Python, JavaScript, etc.].
-- 📫 How to reach me: [your email or social media links].
-- ⚡ Fun fact: [a fun fact about you].
 
-## Languages and Tools
+- **Frontend**: React.js
+- **CSS Frameworks**: Tailwind CSS
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+   <h2> 🔗 Connect with Me</h2>
+- https://www.linkedin.com/in/usama-shahid-randhawa/
 
 ## GitHub Stats
 
