@@ -24,6 +24,4 @@ Here are some of the languages, frameworks, and tools I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaShahid01&layout=compact&theme=radical)
 
-## Connect with Me
 
-[![LinkedIn]https://www.linkedin.com/in/usama-shahid-randhawa/
